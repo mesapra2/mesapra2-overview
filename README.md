@@ -19,7 +19,7 @@ O Mesapra2 cruza três coisas que hoje existem separadas: matching social (tipo 
 
 O sistema é organizado em 16 domínios funcionais, agrupados em 5 clusters. O **Núcleo** (Eventos + Rede Social) é o motivo do app existir — os outros quatro grupos existem para sustentar, monetizar, divulgar e operar o núcleo.
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     subgraph Confianca["🛡️ Confiança"]
         Auth["Auth & KYC"]
@@ -58,7 +58,7 @@ flowchart TD
     Operacao -.-> Nucleo
     Operacao -.-> Dinheiro
     Operacao -.-> Alcance
-\`\`\`
+```
 
 ## Domínios funcionais
 
