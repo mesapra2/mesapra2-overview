@@ -8,6 +8,9 @@
 
 ![Mesapra2](mesapra2-screenshot.jpg)
 
+[![Google Play](https://img.shields.io/badge/Google%20Play-Baixar-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mesapra2.app) [![App Store](https://img.shields.io/badge/App%20Store-Baixar-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/br/app/mesapra2/id6805677281)
+
+
 ---
 
 ## Sumário
