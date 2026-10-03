@@ -4,7 +4,7 @@
 
 > 🔒 Este repositório é uma vitrine pública da arquitetura do produto. **Não contém código-fonte** — o app em produção vive num repositório privado. O objetivo aqui é mostrar como o sistema é organizado, não como ele é implementado.
 
-![Mesapra2](screenshot.jpg)
+![Mesapra2](mesapra2-screenshot.jpg)
 
 ---
 
